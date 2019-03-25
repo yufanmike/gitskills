@@ -1,1 +1,1 @@
-修改gitB里面的readme内容
+this is git B
